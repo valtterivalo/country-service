@@ -33,5 +33,5 @@ build/
 .vscode/
 
 # Dependency directories
-countryservice-frontend/node_modules/
-countryservice-frontned/.next/
+node_modules/
+.next/
