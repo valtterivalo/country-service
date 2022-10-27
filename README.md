@@ -8,4 +8,4 @@ Build steps:
 3. Run the main method in CountryserviceApplication.java, this will start the application by default on http://localhost:8080
 4. Run ```cd countryservice-frontend```
 5. Run ```npm install```
-6. Run ```npm run dev```, the frontend interface will start on ```http://localhost:3000
+6. Run ```npm run dev```, the frontend interface will start on http://localhost:3000
